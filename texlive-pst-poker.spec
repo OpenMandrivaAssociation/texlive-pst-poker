@@ -1,6 +1,6 @@
 Name:		texlive-pst-poker
-Version:	53482
-Release:	2
+Version:	65818
+Release:	1
 Summary:	Drawing poker cards
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-poker
