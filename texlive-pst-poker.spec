@@ -3,7 +3,7 @@ Version:	65818
 Release:	1
 Summary:	Drawing poker cards
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-poker
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-poker
 License:	lgpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-poker.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-poker.doc.r%{version}.tar.xz
